@@ -1,2 +1,2 @@
 # python_studies
-Python exercises, based on "Python for Zombies" and "Free Code Camp"
+Python exercises, based on "Python for Zombies", "Free Code Camp" and other tutorials. 
